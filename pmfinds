@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pmfinds – 10 Dekoideen für stimmungsvolle Beleuchtung</title>
+    <meta name="description" content="Entdecke 10 kreative Ideen für gemütliche Beleuchtung in deiner Wohnung – perfekt für minimalistische Raumdeko.">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #ffffff; color: #333; line-height: 1.6; }
+        header { background-color: #f5f5f5; padding: 40px 20px; text-align: center; }
+        h1 { margin: 0; font-size: 2.2em; }
+        main { padding: 20px; max-width: 900px; margin: auto; }
+        article { margin-bottom: 40px; }
+        h2 { color: #444; font-size: 1.6em; margin-bottom: 10px; }
+        p { margin-bottom: 15px; }
+        a { color: #1a73e8; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .product { margin: 20px 0; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fafafa; }
+        .product img { max-width: 100%; height: auto; display: block; margin-bottom: 10px; }
+        footer { background-color: #f5f5f5; text-align: center; padding: 20px; font-size: 0.9em; color: #666; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>10 Dekoideen für stimmungsvolle Beleuchtung in deiner Wohnung</h1>
+    </header>
+    <main>
+        <article>
+            <p>Willkommen bei <strong>pmfinds</strong>! In diesem Blogartikel zeigen wir dir 10 kreative Ideen, wie du dein Zuhause mit stimmungsvoller Beleuchtung verschönern kannst. Diese Tipps passen perfekt zu minimalistischem Einrichtungsstil und helfen dir, gemütliche Atmosphäre in jedem Raum zu schaffen.</p>
+
+            <h2>1. LED-Stripes hinter Möbeln</h2>
+            <p>Setze deine Regale oder Fernseher mit einem <a href="https://www.amazon.de/dp/PLATZHALTER/?tag=pmfinds-21" target="_blank">flexiblen LED-Stripe</a> in Szene. Warmweißes Licht erzeugt sofort Wohlfühlatmosphäre.</p>
+
+            <h2>2. Dimmbare Tischlampen</h2>
+            <p>Eine <a href="https://www.amazon.de/dp/PLATZHALTER/?tag=pmfinds-21" target="_blank">dimmbare Tischlampe</a> passt perfekt auf Nachttische oder Beistelltische und schafft gemütliches Licht.</p>
+
+            <h2>3. Glaslaternen & Kerzen</h2>
+            <p>Dekorative <a href="https://www.amazon.de/dp/PLATZHALTER/?tag=pmfinds-21" target="_blank">Glaslaternen</a> oder LED-Kerzen erzeugen stimmungsvolles Licht, ohne dass echtes Feuer notwendig ist.</p>
+
+            <h2>4. Stehlampen für indirektes Licht</h2>
+            <p>Eine schlanke <a href="https://www.amazon.de/dp/PLATZHALTER/?tag=pmfinds-21" target="_blank">Stehlampe</a> in einer Ecke kann ganze Räume gemütlich ausleuchten.</p>
+
+            <h2>5. Pendelleuchten über dem Esstisch</h2>
+            <p>Minimalistische <a href="https://www.amazon.de/dp/PLATZHALTER/?tag=pmfinds-21" target="_blank">Pendelleuchten</a> setzen nicht nur Licht, sondern auch dekorative Akzente.</p>
+
+            <p>Weitere Ideen findest du auf Pinterest, und du kannst deine Lieblingsprodukte direkt über die Links shoppen.</p>
+        </article>
+    </main>
+    <footer>
+        <p>Hinweis: Als Amazon-Partner verdiene ich an qualifizierten Verkäufen. Für dich entstehen dadurch keine zusätzlichen Kosten.</p>
+        <p>Diese Seite verwendet keine Cookies oder Tracking-Dienste. Affiliate-Links führen direkt zu Amazon.de.</p>
+    </footer>
+</body>
+</html>
